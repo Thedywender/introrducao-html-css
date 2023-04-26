@@ -2,3 +2,32 @@ body {
     background-color: black;
     color: white;
 }
+
+h1 {
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.meunome {
+    font-style: italic;
+}
+
+.descricao {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+
+}
+
+h2 {
+    font-size: 20px;
+    
+}
+
+li {
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+a {
+    font-size: 14px;
+}
